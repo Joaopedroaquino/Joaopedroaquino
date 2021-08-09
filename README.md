@@ -2,7 +2,7 @@
 
 
 
-- 🔭Hoje trabalho com FrontEnd
+- 🔭 FrontEnd
 - 🌱 Estudando Angular-Typescript
 
 
