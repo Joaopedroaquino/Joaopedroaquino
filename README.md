@@ -1,8 +1,8 @@
-### Olá, Sou o Joao Pedro 👋
+### <h1> Olá, Sou o Joao Pedro, Web Developer👋 </h1>
 
 
 
-- 🔭 FrontEnd
+- 🔭 Web Developer
 - 🌱 Estudando Angular-Typescript
 
 
