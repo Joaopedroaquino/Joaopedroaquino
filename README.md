@@ -1,9 +1,11 @@
 ### <h1> Olá, Sou o Joao Pedro, Web Developer👋 </h1>
 
+<ul>
+<li>🌱 I’m currently learning Angular and Swift</li>
 
+<li>💬 Ask me about VueJs, NuxtJs, VutifyJs</li>
 
-- 🔭 Web Developer
-- 🌱 Estudando Angular-Typescript
+</ul>
 
 
  <div>
@@ -12,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaquino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jp-Ts" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,5 +25,6 @@
   
  
    <img align="center" alt="jp--Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg">
+ </div> -->
 
 
