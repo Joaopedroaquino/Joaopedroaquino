@@ -3,7 +3,7 @@
 <ul>
 <li>🌱 I’m currently learning Angular and Swift</li>
 
-<li>💬 Ask me about VueJs, NuxtJs, VutifyJs</li>
+<li>💬 Ask me about VueJs, NuxtJs, VuetifyJs</li>
 
 </ul>
 
