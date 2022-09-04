@@ -1,9 +1,11 @@
-### <h1> Olá, Sou o Joao Pedro, Web Developer👋 </h1>
+### <h1> Hello I'm João Pedro, Mobile developer 👋📱 </h1>
 
 <ul>
-<li>🌱 I’m currently learning Angular and Swift</li>
+<li> 🦅 I’m currently learning Flutter and Swift 🦅 </li>
 
-<li>💬 Ask me about VueJs, NuxtJs, VuetifyJs</li>
+<li> 💬 Ask me about Flutter, Swift, Angular 2+, VueJs, NuxtJs, VuetifyJs</li>
+
+<li> 🤖 Fun fact: 404 </li>
 
 </ul>
 
