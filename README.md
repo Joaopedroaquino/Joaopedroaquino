@@ -3,7 +3,7 @@
 <ul>
 <li> 🦅 I’m currently learning Flutter and Swift 🦅 </li>
 
-<li> 💬 Ask me about Flutter, Swift, Angular 2+, VueJs, NuxtJs, VuetifyJs</li>
+<li> 💬 Ask me about Flutter, Swift, Angular 2+, VueJs, NuxtJs </li>
 
 <li> 🤖 Fun fact: 404 </li>
 
