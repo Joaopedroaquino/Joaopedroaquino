@@ -1,6 +1,6 @@
-### <h1> Hello I'm João Pedro, Mobile developer 👋📱 </h1>
+<!-- ### <h1> Hello I'm João Pedro, Mobile developer 👋📱 </h1> -->
 
-<ul>
+<!-- <ul>
 <li> 🦅 I’m currently learning Flutter and Swift 🦅 </li>
 
 <li> 💬 Ask me about Flutter, Swift, Angular 2+, VueJs, NuxtJs </li>
@@ -10,12 +10,12 @@
 </ul>
 
 
- <div>
+<!--  <div>
   <a href="https://github.com/joaopedroaquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroaquino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaquino&layout=compact&langs_count=7&theme=dark"/>
 </div>
-</div>
+</div> -->
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jp-Ts" height="30" width="40" 
