@@ -10,7 +10,10 @@
 ```js
 import Developer from 'joaopedroaquino';
 
-class About extends Developer {
+
+```
+
+<!-- class About extends Developer {
   name = 'Joao Pedro';
   area = 'Back-end';
 }
@@ -18,8 +21,7 @@ class About extends Developer {
 class Skills extends Developer {
   languages = ['TS, JS, Swift, Dart'];
   frameworks = ['Nestjs, Flutter'];
-}
-```
+} -->
 
 <!-- ## **Tools:**  
 
